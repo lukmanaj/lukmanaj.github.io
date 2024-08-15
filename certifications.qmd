@@ -1,0 +1,259 @@
+---
+title: "Certifications"
+---
+
+# Licenses & Certifications
+
+### Foundations of Data Structures and Algorithms Specialization
+- **Institution:** University of Colorado Boulder
+- **Issued:** June 2024
+- **Credential ID:** [642TZH39VA2A](https://www.coursera.org/account/accomplishments/specialization/642TZH39VA2A)
+- **Skills:** Python (Programming Language)
+
+### Data Scientist Associate
+- **Institution:** DataCamp
+- **Issued:** May 2024
+- **Expires:** May 2026
+- **Credential ID:** [DSA0016542858099](https://www.datacamp.com/certificate/DSA0016542858099)
+- **Skills:** Data Visualization, Data Analysis
+
+### DeepLearning.AI TensorFlow Developer Specialization
+- **Institution:** DeepLearning.AI
+- **Issued:** May 2024
+- **Credential ID:** [ZKFYFQ2PKGVJ](https://www.coursera.org/account/accomplishments/specialization/ZKFYFQ2PKGVJ)
+- **Skills:** TensorFlow, Artificial Intelligence (AI)
+
+### SQL Associate
+- **Institution:** DataCamp
+- **Issued:** May 2024
+- **Expires:** May 2026
+- **Credential ID:** [SQA0016171527958](https://www.datacamp.com/certificate/SQA0016171527958)
+- **Skills:** SQL
+
+### WHO/ICRC Basic Emergency Care: Conflict-Related Injuries
+- **Institution:** World Health Organization
+- **Issued:** May 2024
+- **Expires:** May 2025
+- **Credential ID:** [OpenWHO](https://openwho.org/verify/xetor-kogal-rumop-nydac-hobob)
+
+### Data Scientist Professional
+- **Institution:** DataCamp
+- **Issued:** March 2024
+- **Expires:** March 2026
+- **Credential ID:** [DS0027095545486](https://www.datacamp.com/certificate/DS0027095545486)
+- **Skills:** Data-driven Decision Making, SQL, Data Visualization, Data Analysis
+
+### Data Analyst Associate
+- **Institution:** DataCamp
+- **Issued:** February 2024
+- **Expires:** February 2026
+- **Credential ID:** [DAA0019758844880](https://www.datacamp.com/certificate/DAA0019758844880)
+
+### AI in Healthcare Specialization
+- **Institution:** Stanford University
+- **Issued:** January 2024
+- **Credential ID:** [E2WTBR4FWPKL](https://www.coursera.org/account/accomplishments/specialization/E2WTBR4FWPKL)
+- **Skills:** Drug Discovery, Artificial Intelligence (AI), Natural Language Processing (NLP)
+
+### Generative AI for Everyone
+- **Institution:** Coursera
+- **Issued:** November 2023
+- **Credential ID:** [TBXGULHM2GJK](https://www.coursera.org/account/accomplishments/certificate/TBXGULHM2GJK)
+
+### Natural Language Processing Specialization
+- **Institution:** Coursera
+- **Issued:** November 2023
+- **Credential ID:** [GMFNJSHVEAQN](https://www.coursera.org/account/accomplishments/specialization/certificate/GMFNJSHVEAQN)
+- **Skills:** Natural Language Processing (NLP)
+
+### Computer Vision and Image Processing Essentials
+- **Institution:** Coursera
+- **Issued:** October 2023
+- [Show Credential](https://www.credly.com/badges/056a5b2f-7fd3-4f07-a6f9-8fd291ee1cf0/linked_in_profile)
+
+### Data Science: Foundations using R Specialization
+- **Institution:** Coursera
+- **Issued:** October 2023
+- **Credential ID:** [WX3PMGBE88MD](https://www.coursera.org/account/accomplishments/specialization/certificate/WX3PMGBE88MD)
+- **Skills:** R Programming, Data Visualization, Data Analysis with R
+
+### Deep Learning Essentials with Keras
+- **Institution:** Coursera
+- **Issued:** October 2023
+- [Show Credential](https://www.credly.com/badges/05a2a9b7-8818-4794-ba6f-84431b4ab72a/linked_in_profile)
+
+### Deep Learning with TensorFlow
+- **Institution:** Coursera
+- **Issued:** October 2023
+- [Show Credential](https://www.credly.com/badges/15a38956-ee11-4ede-bc54-0f5b6e718566/linked_in_profile)
+
+### Deep Neural Networks with PyTorch
+- **Institution:** Coursera
+- **Issued:** October 2023
+- [Show Credential](https://www.credly.com/badges/ec99492a-24fc-4f68-be07-cf0eab2c48db/linked_in_profile)
+
+### IBM AI Engineering Professional Certificate (V2)
+- **Institution:** Coursera
+- **Issued:** October 2023
+- [Show Credential](https://www.credly.com/badges/a2b3b470-bd13-4f80-a126-f0b555234730/linked_in_profile)
+
+### IBM AI Engineering Specialization
+- **Institution:** Coursera
+- **Issued:** October 2023
+- **Credential ID:** [XH8K7N2LC5DB](https://www.coursera.org/account/accomplishments/specialization/certificate/XH8K7N2LC5DB)
+
+### AI For Everyone
+- **Institution:** Coursera
+- **Issued:** September 2023
+- **Credential ID:** [ZKHAVJ2R5PFE](https://www.coursera.org/account/accomplishments/certificate/ZKHAVJ2R5PFE)
+- **Skills:** Artificial Intelligence (AI)
+
+### AI for Good Specialization
+- **Institution:** Coursera
+- **Issued:** September 2023
+- **Credential ID:** [DLXALMRNZT8K](https://www.coursera.org/account/accomplishments/specialization/certificate/DLXALMRNZT8K)
+
+### Generative AI with Large Language Models
+- **Institution:** Coursera
+- **Issued:** September 2023
+- **Credential ID:** [MV992EE8ANT6](https://www.coursera.org/account/accomplishments/certificate/MV992EE8ANT6)
+- **Skills:** Artificial Intelligence (AI)
+
+### Generative Adversarial Networks (GANs) Specialization
+- **Institution:** Coursera
+- **Issued:** September 2023
+- **Credential ID:** [VR9W2443YJ62](https://www.coursera.org/account/accomplishments/specialization/certificate/VR9W2443YJ62)
+- **Skills:** Deep Learning
+
+### AI for Medicine Specialization
+- **Institution:** Coursera
+- **Issued:** August 2023
+- **Credential ID:** [B3NABMQRUM25](https://www.coursera.org/account/accomplishments/specialization/certificate/B3NABMQRUM25)
+- **Skills:** Natural Language Processing (NLP)
+
+### Data Science Professional Certificate
+- **Institution:** Coursera
+- **Issued:** August 2023
+- **[Credential](https://www.credly.com/badges/dacb86ad-84f5-462f-b258-8d3e6047fab8/linked_in_profile)
+- **Skills:** Machine Learning, SQL, Data Visualization, Data Analysis
+
+### Mathematics for Machine Learning and Data Science Specialization
+- **Institution:** Coursera
+- **Issued:** August 2023
+- **Credential ID:** [JJLNXZFBTMAL](https://www.coursera.org/account/accomplishments/specialization/certificate/JJLNXZFBTMAL)
+- **Skills:** Machine Learning, Probability
+
+### Scientific Computing with Python
+- **Institution:** freeCodeCamp
+- **Issued:** August 2023
+- [Show Credential](https://freecodecamp.org/certification/lukman_a_j/scientific-computing-with-python-v7)
+
+### Google Advanced Data Analytics Specialization
+- **Institution:** Coursera
+- **Issued:** June 2023
+- **Credential ID:** [DELC9DSPSTN8](https://www.coursera.org/account/accomplishments/specialization/certificate/DELC9DSPSTN8)
+- **Skills:** Statistical Modeling, Python (Programming Language), Machine Learning
+
+### Google Business Intelligence Certificate
+- **Institution:** Coursera
+- **Issued:** June 2023
+- [Show Credential](https://www.credly.com/badges/4751b91e-f1af-4039-831c-9988117f07ad/linked_in_profile)
+
+### Google Cybersecurity Certificate
+- **Institution:** Coursera
+- **Issued:** June 2023
+- [Show Credential](https://www.credly.com/badges/5e98247b-1ac7-40fd-8cea-eec944360e3b/linked_in_profile)
+
+### Deep Learning Specialization
+- **Institution:** Coursera
+- **Issued:** April 2023
+- [Show Credential](https://www.credly.com/badges/2aa92e62-f3dd-40b7-99bb-c7829abd7271/linked_in_profile)
+
+### Biostatistics in Public Health Specialization
+- **Institution:** Coursera
+- **Issued:** January 2023
+- **Credential ID:** [MJ88DDCQ66CJ](https://www.coursera.org/account/accomplishments/specialization/certificate/MJ88DDCQ66CJ)
+- **Skills:** Statistics, Regression
+
+### Statistical Analysis with R for Public Health Specialization
+- **Institution:** Coursera
+- **Issued:** January 2023
+- **Credential ID:** [RGURR7UK7ZTF](https://www.coursera.org/account/accomplishments/specialization/certificate/RGURR7UK7ZTF)
+- **Skills:** Statistical Thinking, Data Analysis with R, Survival Analysis
+
+### Data Analysis with R
+- **Institution:** Coursera
+- **Issued:** November 2022
+- [Show Credential](https://www.credly.com/badges/abbb745c-809d-45d4-83ba-94a1db80ef50/linked_in_profile)
+
+### Data Science Orientation
+- **Institution:** Coursera
+- **Issued:** November 2022
+- [Show Credential](https://www.linkedin.com/in/lukman-a-j/details/certifications/#:~:text=Issued%20Nov%202022-,Show%20credential,-Machine%20Learning%20with)
+
+### Machine Learning with Python
+- **Institution:** Coursera
+- **Issued:** November 2022
+- [Show Credential](https://www.credly.com/badges/e70b4da9-99a7-4313-a7af-373ac779648b/linked_in_profile)
+
+### R Programming for Data Science Essentials
+- **Institution:** Coursera
+- **Issued:** November 2022
+- [Show Credential](https://www.credly.com/badges/2e4f4a9a-a8b2-46a9-90c1-89ec989ab608/linked_in_profile)
+
+### SQL for Data Science with R Essentials
+- **Institution:** Coursera
+- **Issued:** November 2022
+- [Show Credential](https://www.credly.com/badges/7ff9a4c4-c1b4-48ad-831d-9bf741eda9dd/linked_in_profile)
+
+### Data Analysis with Python
+- **Institution:** Coursera
+- **Issued:** October 2022
+- [Show Credential](https://www.credly.com/badges/2bcd1096-0ce6-49aa-a789-72dc9a567ef8/linked_in_profile)
+
+### Data Visualization with Python
+- **Institution:** Coursera
+- **Issued:** October 2022
+- [Credential](https://www.credly.com/badges/21008e2e-e621-42b5-97cf-689e5d7f2a98/linked_in_profile)
+- **Skills:** Python (Programming Language), Data Visualization
+
+### Python Project for Data Science
+- **Institution:** Coursera
+- **Issued:** October 2022
+- [Show Credential](https://www.credly.com/badges/cee47e1c-b8d2-4e31-8695-77248f52cf5e/linked_in_profile)
+
+### Python for Data Science and AI
+- **Institution:** Coursera
+- **Issued:** October 2022
+- [Show Credential](https://www.credly.com/badges/df35805d-1d74-44dc-ae82-c75ff8d1a4e7/linked_in_profile)
+
+### Google Data Analytics Specialization
+- **Institution:** Coursera
+- **Issued:** September 2022
+- **Credential ID:** [D4ZX9LLXS2GN](https://www.coursera.org/account/accomplishments/specialization/certificate/D4ZX9LLXS2GN)
+- **Skills:** Tableau, R Programming
+
+### JavaScript Algorithms and Data Structures
+- **Institution:** freeCodeCamp
+- **Issued:** September 2022
+- [Show Credential](https://freecodecamp.org/certification/lukman_a_j/javascript-algorithms-and-data-structures)
+
+### McKinsey Forward Program
+- **Institution:** McKinsey & Company
+- **Issued:** September 2022
+- [Show Credential](https://www.credly.com/badges/9d5ed57e-9a32-4f94-b68a-6e096db4d781/linked_in_profile)
+
+### Responsive Web Design
+- **Institution:** freeCodeCamp
+- **Issued:** September 2022
+- [Show Credential](https://freecodecamp.org/certification/lukman_a_j/responsive-web-design)
+
+### Introduction to Procurement and Supply Chain Management of Pharmaceutical Products
+- **Institution:** UNDP
+- **Issued:** February 2019
+- **Credential ID:** 51
+
+### Fundamentals of Digital Marketing
+- **Institution:** Google
+- **Issued:** September 2017
+
