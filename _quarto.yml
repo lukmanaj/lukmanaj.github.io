@@ -2,6 +2,13 @@ project:
   type: website
   output-dir: docs
 
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+
 website:
   title: "Lukman Jibril Aliyu"
   navbar:
