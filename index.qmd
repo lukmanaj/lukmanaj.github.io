@@ -4,7 +4,7 @@ title: "Lukman Jibril Aliyu"
 
 # Welcome to My Personal Website
 
-Hi, I'm Lukman Jibril Aliyu, a professional with a background in Pharmacy and expertise in Biomedical Informatics and Artificial Intelligence. This website showcases my projects, publications, and professional journey. Feel free to explore!
+My name is Lukman Jibril Aliyu. I am a professional with a background in Pharmacy and expertise in Biomedical Informatics and Artificial Intelligence. This website showcases my projects, publications, and professional journey. Feel free to explore!
 
 [Learn more about me](about.qmd)
 
@@ -13,6 +13,6 @@ Hi, I'm Lukman Jibril Aliyu, a professional with a background in Pharmacy and ex
 
 ## Latest Updates
 
-- **August 2024**: Selected as a Mentor by Coursera and DeepLearning.AI for the `Tensorflow Developer Professional Certification` as a result of my insightful contributions as a course tester.
+- **August 2024**: Selected as a Mentor by DeepLearning.AI and Coursera for the `Tensorflow Developer Professional Certification` as a result of my insightful contributions as a course tester.
 - **November 2023**: Presented our research paper: Analyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace: Insights from a Manually Annotated Twitter Dataset, at the International Conference on Computing and Advances in Information Technology (ICCAIT).
 - **May 2023**: Second place in the Cohere AI Hack for developing a language alignment tool.
