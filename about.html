@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -128,30 +127,17 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-jolla">
+ <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">About Me</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-
-</header>
-
-
+</header><main class="content" id="quarto-document-content">
 <p>I am a dedicated professional with a strong foundation in Pharmacy, focusing on leveraging Artificial Intelligence and Machine Learning for Biomedical Informatics applications. Currently employed at Zipline, I am facilitating the delivery of medical supplies using drones. I am passionate about data-driven healthcare solutions, computational drug discovery, and biostatistics.</p>
 <section id="research-interests" class="level2">
-<h2 class="anchored" data-anchor-id="research-interests">Research Interests</h2>
+<h2 data-anchor-id="research-interests">Research Interests</h2>
 <ul>
 <li>Biomedical Informatics</li>
 <li>Machine Learning in Health Applications</li>
@@ -163,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 <section id="volunteer-work" class="level2">
-<h2 class="anchored" data-anchor-id="volunteer-work">Volunteer Work</h2>
+<h2 data-anchor-id="volunteer-work">Volunteer Work</h2>
 <p>I am actively engaged in volunteer work to support and mentor aspiring data scientists and healthcare professionals:</p>
 <ul>
 <li><strong>DeepLearning.AI Forum Mentor and Moderator</strong>: I contribute by organizing content, mentoring learners (Tensorflow Developer Professional Certification), and participating in discussions to help the community grow.</li>
@@ -173,8 +159,24 @@ ul.task-list li input[type="checkbox"] {
 
 
 </section>
-
-</main> <!-- /main -->
+</main> 
+  <hr class="about-sep">
+   <div class="about-links">
+  <a href="https://twitter.com/lukmanajjk" class="about-link" rel="" target="">
+    <i class="bi bi-twitter"></i>
+     <span class="about-link-text">Twitter</span>
+  </a>
+  <a href="https://linkedin.com/in/lukman-a-j" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="https://github.com/lukmanaj" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
+  </a>
+</div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -195,13 +197,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
