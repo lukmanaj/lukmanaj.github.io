@@ -251,7 +251,6 @@ title: "Certifications"
 ### Introduction to Procurement and Supply Chain Management of Pharmaceutical Products
 - **Institution:** UNDP
 - **Issued:** February 2019
-- **Credential ID:** 51
 
 ### Fundamentals of Digital Marketing
 - **Institution:** Google
