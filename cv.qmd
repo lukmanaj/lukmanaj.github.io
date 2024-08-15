@@ -31,7 +31,7 @@ title: "Curriculum Vitae"
 ## Volunteer Experience
 
 ### DeepLearning.AI Forum (August 2024 - Present)
-- **Role:** Moderator (Tensorflow Developer Professional Certification)
+- **Role:** Mentor (Tensorflow Developer Professional Certification)
 - Responsibilities include mentoring learners, and helping in troubleshooting bugs and challenges while supporting the course staff.
 
 ### DeepLearning.AI Forum (November 2023 - Present)
