@@ -1,5 +1,18 @@
 ---
 title: "About Me"
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/lukmanajjk
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/lukman-a-j
+    - icon: github
+      text: Github
+      href: https://github.com/lukmanaj
+
 ---
 
 
