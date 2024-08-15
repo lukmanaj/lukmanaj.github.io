@@ -20,7 +20,7 @@ title: "Certifications"
 ### DeepLearning.AI TensorFlow Developer Professional Certificate
 - **Institution:** DeepLearning.AI
 - **Issued:** May 2024
-- **Credential ID:** [ZKFYFQ2PKGVJ](https://www.coursera.org/account/accomplishments/specialization/ZKFYFQ2PKGVJ)
+- **Credential ID:** [NFJ85QIRNDJS](https://www.coursera.org/account/accomplishments/professional-cert/NFJ85QIRNDJS)
 - **Skills:** TensorFlow, Artificial Intelligence (AI)
 
 ### SQL Associate
