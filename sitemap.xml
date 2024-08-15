@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lukmanaj.github.io/cv.html</loc>
-    <lastmod>2024-08-15T08:10:34.535Z</lastmod>
+    <loc>https://lukmanaj.github.io/publications.html</loc>
+    <lastmod>2024-08-15T08:06:48.709Z</lastmod>
   </url>
   <url>
     <loc>https://lukmanaj.github.io/index.html</loc>
-    <lastmod>2024-08-15T08:10:34.539Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukmanaj.github.io/projects.html</loc>
-    <lastmod>2024-08-15T08:10:34.539Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukmanaj.github.io/about.html</loc>
-    <lastmod>2024-08-15T08:10:34.535Z</lastmod>
+    <lastmod>2024-08-15T08:06:48.709Z</lastmod>
   </url>
   <url>
     <loc>https://lukmanaj.github.io/blog.html</loc>
-    <lastmod>2024-08-15T08:10:34.535Z</lastmod>
+    <lastmod>2024-08-15T08:06:48.700Z</lastmod>
   </url>
   <url>
-    <loc>https://lukmanaj.github.io/publications.html</loc>
-    <lastmod>2024-08-15T08:10:34.539Z</lastmod>
+    <loc>https://lukmanaj.github.io/about.html</loc>
+    <lastmod>2024-08-15T08:06:48.700Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lukmanaj.github.io/cv.html</loc>
+    <lastmod>2024-08-15T08:06:48.700Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lukmanaj.github.io/projects.html</loc>
+    <lastmod>2024-08-15T08:06:48.709Z</lastmod>
   </url>
 </urlset>
