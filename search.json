@@ -74,28 +74,28 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I am a dedicated professional with a strong foundation in Pharmacy, focusing on leveraging Artificial Intelligence and Machine Learning for Biomedical Informatics applications. Currently employed at Zipline, I am facilitating the delivery of medical supplies using drones. I am passionate about data-driven healthcare solutions, computational drug discovery, and biostatistics.\n\n\nA detailed overview of my professional background in AI and healthcare.\n\n\n\n\nBiomedical Informatics\nMachine Learning in Health Applications\nComputational Drug Discovery\nBiostatistics in Clinical Trials\nData-Driven Healthcare Solutions\nHealth Data Analytics\nMedical Imaging and Informatics\n\n\n\n\nI am actively engaged in volunteer work to support and mentor aspiring data scientists and healthcare professionals:\n\nDeepLearning.AI Forum Mentor and Moderator: I contribute by organizing content, mentoring learners (Tensorflow Developer Professional Certification), and participating in discussions to help the community grow.\nArewa Data Science Fellowship Mentor: I provide mentorship in Python programming and data science libraries with a focus on healthcare applications.\nMedical Community Development Group: I participated in medical outreach programs and health education initiatives in underserved communities during my service year."
+    "text": "I am a dedicated professional with a strong foundation in Pharmacy, focusing on leveraging Artificial Intelligence and Machine Learning for Biomedical Informatics applications. Currently employed at Zipline, I am facilitating the delivery of medical supplies using drones. I am passionate about data-driven healthcare solutions, computational drug discovery, and biostatistics."
   },
   {
     "objectID": "about.html#career-summary",
     "href": "about.html#career-summary",
     "title": "About Me",
-    "section": "",
-    "text": "A detailed overview of my professional background in AI and healthcare."
+    "section": "Career Summary",
+    "text": "Career Summary\nA detailed overview of my professional background in AI and healthcare."
   },
   {
     "objectID": "about.html#research-interests",
     "href": "about.html#research-interests",
     "title": "About Me",
-    "section": "",
-    "text": "Biomedical Informatics\nMachine Learning in Health Applications\nComputational Drug Discovery\nBiostatistics in Clinical Trials\nData-Driven Healthcare Solutions\nHealth Data Analytics\nMedical Imaging and Informatics"
+    "section": "Research Interests",
+    "text": "Research Interests\n\nBiomedical Informatics\nMachine Learning in Health Applications\nComputational Drug Discovery\nBiostatistics in Clinical Trials\nData-Driven Healthcare Solutions\nHealth Data Analytics\nMedical Imaging and Informatics"
   },
   {
     "objectID": "about.html#volunteer-work",
     "href": "about.html#volunteer-work",
     "title": "About Me",
-    "section": "",
-    "text": "I am actively engaged in volunteer work to support and mentor aspiring data scientists and healthcare professionals:\n\nDeepLearning.AI Forum Mentor and Moderator: I contribute by organizing content, mentoring learners (Tensorflow Developer Professional Certification), and participating in discussions to help the community grow.\nArewa Data Science Fellowship Mentor: I provide mentorship in Python programming and data science libraries with a focus on healthcare applications.\nMedical Community Development Group: I participated in medical outreach programs and health education initiatives in underserved communities during my service year."
+    "section": "Volunteer Work",
+    "text": "Volunteer Work\nI am actively engaged in volunteer work to support and mentor aspiring data scientists and healthcare professionals:\n\nDeepLearning.AI Forum Mentor and Moderator: I contribute by organizing content, mentoring learners (Tensorflow Developer Professional Certification), and participating in discussions to help the community grow.\nArewa Data Science Fellowship Mentor: I provide mentorship in Python programming and data science libraries with a focus on healthcare applications.\nMedical Community Development Group: I participated in medical outreach programs and health education initiatives in underserved communities during my service year."
   },
   {
     "objectID": "blog.html",
