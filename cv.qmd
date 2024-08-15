@@ -2,13 +2,11 @@
 title: "Curriculum Vitae"
 ---
 
-# Curriculum Vitae
-
 ## Education
 - **Bachelor of Pharmacy**, Ahmadu Bello University, Zaria (November 2011 - November 2017)
 
 ## Research Experience
-### Arewa Data Science Academy (July 2023)
+### Arewa Data Science Academy (July 2023 - Present)
 - **Role:** Mentor
 - Developed machine learning models focusing on healthcare.
 - Contributed to low-resource language alignment projects.
