@@ -1,7 +1,8 @@
 ---
 title: "About Me"
+image: Lukman.jpeg
 about:
-  template: jolla
+  template: trestles
   links:
     - icon: twitter
       text: Twitter
