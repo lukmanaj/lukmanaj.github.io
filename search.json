@@ -4,7 +4,7 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Bachelor of Pharmacy, Ahmadu Bello University, Zaria (November 2011 - November 2017)\n\n\n\n\n\n\n\nRole: Mentor\nDeveloped machine learning models focusing on healthcare.\nContributed to low-resource language alignment projects.\n\n\n\n\n\nRole: Intern Pharmacist\nConducted research on oncology patient mortality.\n\n\n\n\n\nRole: Researcher\nSynthesized and screened Schiff bases for antimicrobial activity.\n\n\n\n\n\n\n\n\nRole: Fulfillment Operations Professional\nManaged drone delivery of medical products to remote areas.\n\n\n\n\n\nRole: Locum Pharmacist\nProvided patient counseling and optimized dispensing processes.\n\n\n\n\n\n\n\n\nRole: Moderator (Tensorflow Developer Professional Certification)\nResponsibilities include mentoring learners, and helping in troubleshooting bugs and challenges while supporting the course staff.\n\n\n\n\n\nRole: Moderator\nResponsibilities include organizing and reviewing content, mentoring learners, and contributing to community discussions.\n\n\n\n\n\nRole: Mentor\nTaught Python programming and data science libraries with a focus on healthcare applications.\n\n\n\n\n\nConducted medical outreaches and health talks in underserved communities.\n\n\n\n\n\nServed as a tutor for Ethical Dispensing (PHCT 504) and Pharmaceutical Analysis I (PHCH 401), providing guidance to pharmacy students.\n\n…\n\n\n\n\n\nProgramming Languages: Python, Julia, R, SQL\nOperating Systems: Linux (Ubuntu, Debian), Windows, ChromeOS\nSpoken Languages: Hausa, English, French (DELF A1), Arabic"
+    "text": "Bachelor of Pharmacy, Ahmadu Bello University, Zaria (November 2011 - November 2017)"
   },
   {
     "objectID": "cv.html#education",
@@ -17,29 +17,29 @@
     "objectID": "cv.html#research-experience",
     "href": "cv.html#research-experience",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Role: Mentor\nDeveloped machine learning models focusing on healthcare.\nContributed to low-resource language alignment projects.\n\n\n\n\n\nRole: Intern Pharmacist\nConducted research on oncology patient mortality.\n\n\n\n\n\nRole: Researcher\nSynthesized and screened Schiff bases for antimicrobial activity."
+    "section": "Research Experience",
+    "text": "Research Experience\n\nArewa Data Science Academy (July 2023 - Present)\n\nRole: Mentor\nDeveloped machine learning models focusing on healthcare.\nContributed to low-resource language alignment projects.\n\n\n\nAhmadu Bello University Teaching Hospital (February 2018 - March 2019)\n\nRole: Intern Pharmacist\nConducted research on oncology patient mortality.\n\n\n\nAhmadu Bello University, Zaria (February 2017 - November 2017)\n\nRole: Researcher\nSynthesized and screened Schiff bases for antimicrobial activity."
   },
   {
     "objectID": "cv.html#professional-experience",
     "href": "cv.html#professional-experience",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Role: Fulfillment Operations Professional\nManaged drone delivery of medical products to remote areas.\n\n\n\n\n\nRole: Locum Pharmacist\nProvided patient counseling and optimized dispensing processes."
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nZipline, Nigeria (August 2021 - Present)\n\nRole: Fulfillment Operations Professional\nManaged drone delivery of medical products to remote areas.\n\n\n\nDialogue Pharmacy and Stores, Kaduna (July 2020 - August 2021)\n\nRole: Locum Pharmacist\nProvided patient counseling and optimized dispensing processes."
   },
   {
     "objectID": "cv.html#volunteer-experience",
     "href": "cv.html#volunteer-experience",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Role: Moderator (Tensorflow Developer Professional Certification)\nResponsibilities include mentoring learners, and helping in troubleshooting bugs and challenges while supporting the course staff.\n\n\n\n\n\nRole: Moderator\nResponsibilities include organizing and reviewing content, mentoring learners, and contributing to community discussions.\n\n\n\n\n\nRole: Mentor\nTaught Python programming and data science libraries with a focus on healthcare applications.\n\n\n\n\n\nConducted medical outreaches and health talks in underserved communities.\n\n\n\n\n\nServed as a tutor for Ethical Dispensing (PHCT 504) and Pharmaceutical Analysis I (PHCH 401), providing guidance to pharmacy students.\n\n…"
+    "section": "Volunteer Experience",
+    "text": "Volunteer Experience\n\nDeepLearning.AI Forum (August 2024 - Present)\n\nRole: Moderator (Tensorflow Developer Professional Certification)\nResponsibilities include mentoring learners, and helping in troubleshooting bugs and challenges while supporting the course staff.\n\n\n\nDeepLearning.AI Forum (November 2023 - Present)\n\nRole: Moderator\nResponsibilities include organizing and reviewing content, mentoring learners, and contributing to community discussions.\n\n\n\nArewa Data Science Fellowship (July 2023 - Present)\n\nRole: Mentor\nTaught Python programming and data science libraries with a focus on healthcare applications.\n\n\n\nMedical Community Development Group, NYSC (March 2019 - March 2020)\n\nConducted medical outreaches and health talks in underserved communities.\n\n\n\nAhmadu Bello University (February 2015 – November 2017)\n\nServed as a tutor for Ethical Dispensing (PHCT 504) and Pharmaceutical Analysis I (PHCH 401), providing guidance to pharmacy students.\n\n…"
   },
   {
     "objectID": "cv.html#skills",
     "href": "cv.html#skills",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Programming Languages: Python, Julia, R, SQL\nOperating Systems: Linux (Ubuntu, Debian), Windows, ChromeOS\nSpoken Languages: Hausa, English, French (DELF A1), Arabic"
+    "section": "Skills",
+    "text": "Skills\n\nProgramming Languages: Python, Julia, R, SQL\nOperating Systems: Linux (Ubuntu, Debian), Windows, ChromeOS\nSpoken Languages: Hausa, English, French (DELF A1), Arabic"
   },
   {
     "objectID": "index.html",
