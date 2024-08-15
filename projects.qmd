@@ -2,7 +2,6 @@
 title: "Selected Projects"
 ---
 
-# Selected Projects
 
 ## Cohere Parallel Language Sentence Alignment
 - Developed an efficient sentence alignment tool pairing Hausa with English translations using multilingual embeddings.
