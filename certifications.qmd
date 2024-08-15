@@ -17,7 +17,7 @@ title: "Certifications"
 - **Credential ID:** [DSA0016542858099](https://www.datacamp.com/certificate/DSA0016542858099)
 - **Skills:** Data Visualization, Data Analysis
 
-### DeepLearning.AI TensorFlow Developer Specialization
+### DeepLearning.AI TensorFlow Developer Professional Certificate
 - **Institution:** DeepLearning.AI
 - **Issued:** May 2024
 - **Credential ID:** [ZKFYFQ2PKGVJ](https://www.coursera.org/account/accomplishments/specialization/ZKFYFQ2PKGVJ)
