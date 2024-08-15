@@ -1,24 +1,31 @@
 [
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Selected Publications\n\nAnalyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace. arXiv preprint arXiv:2401.13133.\nBeyond English: Offensive Language Detection in Low-Resource Nigerian Languages. 5th Workshop on African Natural Language Processing.\nHausaNLP at SemEval-2024 Task 1: Textual Relatedness Analysis for Semantic Representation of Sentences. 18th International Workshop on Semantic Evaluation.\nLeveraging Closed-Access Multilingual Embedding for Automatic Sentence Alignment in Low Resource Languages. arXiv preprint arXiv:2311.12179."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lukman Jibril Aliyu",
+    "section": "",
+    "text": "Hi, I’m Lukman Jibril Aliyu, a professional with a background in Pharmacy and expertise in Biomedical Informatics and Artificial Intelligence. This website showcases my projects, publications, and professional journey. Feel free to explore!\nLearn more about me\n\n\n\n\nAugust 2024: Selected as a Mentor by Coursera and DeepLearning.AI for the Tensorflow Developer Professional Certification as a result of my insightful contributions as a course tester.\nNovember 2023: Presented our research paper: Analyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace: Insights from a Manually Annotated Twitter Dataset, at the International Conference on Computing and Advances in Information Technology (ICCAIT).\nMay 2023: Second place in the Cohere AI Hack for developing a language alignment tool."
+  },
+  {
+    "objectID": "index.html#latest-updates",
+    "href": "index.html#latest-updates",
+    "title": "Lukman Jibril Aliyu",
+    "section": "",
+    "text": "August 2024: Selected as a Mentor by Coursera and DeepLearning.AI for the Tensorflow Developer Professional Certification as a result of my insightful contributions as a course tester.\nNovember 2023: Presented our research paper: Analyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace: Insights from a Manually Annotated Twitter Dataset, at the International Conference on Computing and Advances in Information Technology (ICCAIT).\nMay 2023: Second place in the Cohere AI Hack for developing a language alignment tool."
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "My Blog",
     "section": "",
     "text": "Blog\nWelcome to my blog where I share updates and insights on AI, healthcare, and more.\nVisit my Quarto Blog"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Selected Projects",
-    "section": "",
-    "text": "Developed an efficient sentence alignment tool pairing Hausa with English translations using multilingual embeddings.\nAchieved an F1 score of 95%, securing second place in the Cohere AI Hack 2023.\n\nLearn more about this project"
-  },
-  {
-    "objectID": "projects.html#cohere-parallel-language-sentence-alignment",
-    "href": "projects.html#cohere-parallel-language-sentence-alignment",
-    "title": "Selected Projects",
-    "section": "",
-    "text": "Developed an efficient sentence alignment tool pairing Hausa with English translations using multilingual embeddings.\nAchieved an F1 score of 95%, securing second place in the Cohere AI Hack 2023.\n\nLearn more about this project"
   },
   {
     "objectID": "about.html",
@@ -47,20 +54,6 @@
     "title": "About Me",
     "section": "",
     "text": "I am actively engaged in volunteer work to support and mentor aspiring data scientists and healthcare professionals:\n\nDeepLearning.AI Forum Mentor and Moderator: I contribute by organizing content, mentoring learners (Tensorflow Developer Professional Certification), and participating in discussions to help the community grow.\nArewa Data Science Fellowship Mentor: I provide mentorship in Python programming and data science libraries with a focus on healthcare applications.\nMedical Community Development Group: I participated in medical outreach programs and health education initiatives in underserved communities during my service year."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Lukman Jibril Aliyu",
-    "section": "",
-    "text": "Hi, I’m Lukman Jibril Aliyu, a professional with a background in Pharmacy and expertise in Biomedical Informatics and Artificial Intelligence. This website showcases my projects, publications, and professional journey. Feel free to explore!\nLearn more about me\n\n\n\n\nAugust 2024: Selected as a Mentor by Coursera and DeepLearning.AI for the Tensorflow Developer Professional Certification as a result of my insightful contributions as a course tester.\nNovember 2023: Presented our research paper: Analyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace: Insights from a Manually Annotated Twitter Dataset, at the International Conference on Computing and Advances in Information Technology (ICCAIT).\nMay 2023: Second place in the Cohere AI Hack for developing a language alignment tool."
-  },
-  {
-    "objectID": "index.html#latest-updates",
-    "href": "index.html#latest-updates",
-    "title": "Lukman Jibril Aliyu",
-    "section": "",
-    "text": "August 2024: Selected as a Mentor by Coursera and DeepLearning.AI for the Tensorflow Developer Professional Certification as a result of my insightful contributions as a course tester.\nNovember 2023: Presented our research paper: Analyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace: Insights from a Manually Annotated Twitter Dataset, at the International Conference on Computing and Advances in Information Technology (ICCAIT).\nMay 2023: Second place in the Cohere AI Hack for developing a language alignment tool."
   },
   {
     "objectID": "cv.html",
@@ -105,10 +98,17 @@
     "text": "Programming Languages: Python, Julia, R, SQL\nOperating Systems: Linux (Ubuntu, Debian), Windows, ChromeOS\nSpoken Languages: Hausa, English, French (DELF A1), Arabic"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Selected Projects",
     "section": "",
-    "text": "Selected Publications\n\nAnalyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace. arXiv preprint arXiv:2401.13133.\nBeyond English: Offensive Language Detection in Low-Resource Nigerian Languages. 5th Workshop on African Natural Language Processing.\nHausaNLP at SemEval-2024 Task 1: Textual Relatedness Analysis for Semantic Representation of Sentences. 18th International Workshop on Semantic Evaluation.\nLeveraging Closed-Access Multilingual Embedding for Automatic Sentence Alignment in Low Resource Languages. arXiv preprint arXiv:2311.12179."
+    "text": "Developed an efficient sentence alignment tool pairing Hausa with English translations using multilingual embeddings.\nAchieved an F1 score of 95%, securing second place in the Cohere AI Hack 2023.\n\nLearn more about this project"
+  },
+  {
+    "objectID": "projects.html#cohere-parallel-language-sentence-alignment",
+    "href": "projects.html#cohere-parallel-language-sentence-alignment",
+    "title": "Selected Projects",
+    "section": "",
+    "text": "Developed an efficient sentence alignment tool pairing Hausa with English translations using multilingual embeddings.\nAchieved an F1 score of 95%, securing second place in the Cohere AI Hack 2023.\n\nLearn more about this project"
   }
 ]
