@@ -1,0 +1,29 @@
+---
+title: "About Me"
+---
+
+# About Me
+
+I am a dedicated professional with a strong foundation in Pharmacy, focusing on leveraging Artificial Intelligence and Machine Learning for Biomedical Informatics applications. Currently employed at Zipline, I am facilitating the delivery of medical supplies using drones. I am passionate about data-driven healthcare solutions, computational drug discovery, and biostatistics.
+
+## Career Summary
+
+A detailed overview of my professional background in AI and healthcare.
+
+## Research Interests
+
+- Biomedical Informatics
+- Machine Learning in Health Applications
+- Computational Drug Discovery
+- Biostatistics in Clinical Trials
+- Data-Driven Healthcare Solutions
+- Health Data Analytics
+- Medical Imaging and Informatics
+
+## Volunteer Work
+
+I am actively engaged in volunteer work to support and mentor aspiring data scientists and healthcare professionals:
+
+- **DeepLearning.AI Forum Mentor and Moderator**: I contribute by organizing content, mentoring learners (Tensorflow Developer Professional Certification), and participating in discussions to help the community grow.
+- **Arewa Data Science Fellowship Mentor**: I provide mentorship in Python programming and data science libraries with a focus on healthcare applications.
+- **Medical Community Development Group**: I participated in medical outreach programs and health education initiatives in underserved communities during my service year.

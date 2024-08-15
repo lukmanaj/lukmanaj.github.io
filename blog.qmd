@@ -1,0 +1,9 @@
+---
+title: "My Blog"
+---
+
+# Blog
+
+Welcome to my blog where I share updates and insights on AI, healthcare, and more.
+
+[Visit my Quarto Blog](https://lukmanaj.github.io/ailearningloop/)

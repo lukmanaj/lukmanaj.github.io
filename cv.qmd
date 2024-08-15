@@ -1,0 +1,59 @@
+---
+title: "Curriculum Vitae"
+---
+
+# Curriculum Vitae
+
+## Education
+- **Bachelor of Pharmacy**, Ahmadu Bello University, Zaria (November 2011 - November 2017)
+
+## Research Experience
+### Arewa Data Science Academy (July 2023)
+- **Role:** Mentor
+- Developed machine learning models focusing on healthcare.
+- Contributed to low-resource language alignment projects.
+
+### Ahmadu Bello University Teaching Hospital (February 2018 - March 2019)
+- **Role:** Intern Pharmacist
+- Conducted research on oncology patient mortality.
+
+### Ahmadu Bello University, Zaria (February 2017 - November 2017)
+- **Role:** Researcher
+- Synthesized and screened Schiff bases for antimicrobial activity.
+
+## Professional Experience
+### Zipline, Nigeria (August 2021 - Present)
+- **Role:** Fulfillment Operations Professional
+- Managed drone delivery of medical products to remote areas.
+
+### Dialogue Pharmacy and Stores, Kaduna (July 2020 - August 2021)
+- **Role:** Locum Pharmacist
+- Provided patient counseling and optimized dispensing processes.
+
+## Volunteer Experience
+
+### DeepLearning.AI Forum (August 2024 - Present)
+- **Role:** Moderator (Tensorflow Developer Professional Certification)
+- Responsibilities include mentoring learners, and helping in troubleshooting bugs and challenges while supporting the course staff.
+
+### DeepLearning.AI Forum (November 2023 - Present)
+- **Role:** Moderator
+- Responsibilities include organizing and reviewing content, mentoring learners, and contributing to community discussions.
+
+### Arewa Data Science Fellowship (July 2023 - Present)
+- **Role:** Mentor
+- Taught Python programming and data science libraries with a focus on healthcare applications.
+
+### Medical Community Development Group, NYSC (March 2019 - March 2020)
+- Conducted medical outreaches and health talks in underserved communities.
+
+### Ahmadu Bello University (February 2015 – November 2017)
+- Served as a tutor for Ethical Dispensing (PHCT 504) and Pharmaceutical Analysis I (PHCH 401), providing guidance to pharmacy students.
+
+
+...
+
+## Skills
+- **Programming Languages:** Python, Julia, R, SQL
+- **Operating Systems:** Linux (Ubuntu, Debian), Windows, ChromeOS
+- **Spoken Languages:** Hausa, English, French (DELF A1), Arabic

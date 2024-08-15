@@ -1,0 +1,11 @@
+---
+title: "Selected Projects"
+---
+
+# Selected Projects
+
+## Cohere Parallel Language Sentence Alignment
+- Developed an efficient sentence alignment tool pairing Hausa with English translations using multilingual embeddings.
+- Achieved an F1 score of 95%, securing second place in the Cohere AI Hack 2023.
+
+[Learn more about this project](https://devpost.com/software/hausa-english-sentence-alignment-tool)
