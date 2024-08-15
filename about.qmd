@@ -2,7 +2,6 @@
 title: "About Me"
 ---
 
-# About Me
 
 I am a dedicated professional with a strong foundation in Pharmacy, focusing on leveraging Artificial Intelligence and Machine Learning for Biomedical Informatics applications. Currently employed at Zipline, I am facilitating the delivery of medical supplies using drones. I am passionate about data-driven healthcare solutions, computational drug discovery, and biostatistics.
 
