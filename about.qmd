@@ -16,6 +16,9 @@ about:
     - icon: discord
       text: Discord
       href: https://discord.com/users/lukmanaj
+    - icon: envelope
+      text: Email
+      href: mailto:lukman.j.aliyu@gmail.com
 
 
 ---
