@@ -14,6 +14,6 @@ My name is Lukman Jibril Aliyu. I am a professional with a background in Pharmac
 ## Latest Updates
 
 - **August 2024**: Earned the "Devotee" badge on the DeepLearning.AI Forum for participating consistently for 365 consecutive days.
-- **August 2024**: Selected as a Mentor by DeepLearning.AI and Coursera for the `Tensorflow Developer Professional Certification` as a result of my insightful contributions as a course tester.
+- **August 2024**: Selected as a Mentor by DeepLearning.AI and Coursera for the [`Tensorflow Developer Professional Certificate`](https://www.coursera.org/professional-certificates/tensorflow-in-practice) as a result of my insightful contributions as a course tester.
 - **November 2023**: Presented our research paper: Analyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace: Insights from a Manually Annotated Twitter Dataset, at the International Conference on Computing and Advances in Information Technology (ICCAIT).
 - **May 2023**: Second place in the Cohere AI Hack for developing a language alignment tool.
