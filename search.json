@@ -70,6 +70,13 @@
     "text": "Developed an efficient sentence alignment tool pairing Hausa with English translations using multilingual embeddings.\nAchieved an F1 score of 95%, securing second place in the Cohere AI Hack 2023.\n\nLearn more about this project"
   },
   {
+    "objectID": "projects.html#african-wild-classification-project",
+    "href": "projects.html#african-wild-classification-project",
+    "title": "Selected Projects",
+    "section": "African Wild Classification Project",
+    "text": "African Wild Classification Project\n\nDeveloped a model that accurately classifies four wild animals in the sahara\nDeployed an app on streamlit using the developed model\n\nLearn more about this project"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
