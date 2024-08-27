@@ -8,3 +8,9 @@ title: "Selected Projects"
 - Achieved an F1 score of 95%, securing second place in the Cohere AI Hack 2023.
 
 [Learn more about this project](https://devpost.com/software/hausa-english-sentence-alignment-tool)
+
+## African Wild Classification Project
+- Developed a model that accurately classifies four wild animals in the sahara
+- Deployed an app on streamlit using the developed model
+
+[Learn more about this project](https://github.com/lukmanaj/wildlifeclassify)
