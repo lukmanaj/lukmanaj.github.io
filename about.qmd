@@ -4,9 +4,9 @@ image: Lukman.jpg
 about:
   template: trestles
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/lukmanajjk
+    - icon: envelope
+      text: Email
+      href: mailto:lukman.j.aliyu@gmail.com
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/lukman-a-j
@@ -15,10 +15,13 @@ about:
       href: https://github.com/lukmanaj
     - icon: discord
       text: Discord
-      href: https://discord.com/users/lukmanaj
-    - icon: envelope
-      text: Email
-      href: mailto:lukman.j.aliyu@gmail.com
+      href: https://discord.com/users/lukmanaj  
+    - icon: huggingface
+      text: Huggingface
+      href: https://huggingface.co/lukmanaj
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/lukmanajjk
 
 
 ---
