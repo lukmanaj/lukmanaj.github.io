@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-image: Lukman.jpg
+image: Lukman.jpeg
 about:
   template: trestles
   links:
