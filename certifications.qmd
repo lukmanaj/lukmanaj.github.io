@@ -4,6 +4,12 @@ title: "Certifications"
 
 # Licenses & Certifications
 
+### Health Informatics Specialization
+- **Institution:** Johns Hopkins University
+- **Issued:** September 2024
+- **Credential ID:** [QFC9J64ZLO1N](https://www.coursera.org/account/accomplishments/specialization/QFC9J64ZLO1N)
+- **Skills:** Informatics, Health Informatics, Biomedical Informatics
+
 ### DeepLearning.AI TensorFlow Developer Professional Certificate
 - **Institution:** DeepLearning.AI
 - **Issued:** August 2024
