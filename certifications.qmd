@@ -4,10 +4,10 @@ title: "Certifications"
 
 # Licenses & Certifications
 ### Deep Learning for Healthcare Specialization
--**Institution:** University of Illinois Urbana-Champaign
--**Issued:**In view
--**Credential ID:** 
--**Skills:** Deep Learning, Healthcare
+- **Institution:** University of Illinois Urbana-Champaign
+- **Issued:**In view
+- **Credential ID:** 
+- **Skills:** Deep Learning, Healthcare
 
 
 ### Health Informatics Specialization
