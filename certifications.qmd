@@ -5,10 +5,9 @@ title: "Certifications"
 # Licenses & Certifications
 ### Deep Learning for Healthcare Specialization
 - **Institution:** University of Illinois Urbana-Champaign
-- **Issued:**In view
-- **Credential ID:** 
+- **Issued:** October 2024
+- **Credential ID:** [WD8GQVPOGEEO](https://www.coursera.org/account/accomplishments/specialization/WD8GQVPOGEEO)
 - **Skills:** Deep Learning, Healthcare
-
 
 ### Health Informatics Specialization
 - **Institution:** Johns Hopkins University
