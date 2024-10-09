@@ -3,6 +3,12 @@ title: "Certifications"
 ---
 
 # Licenses & Certifications
+### Genomic Data Science Specialization
+- **Institution:** Johns Hopkins University
+- **Issued:** In view
+- **Credential ID:**
+- **Skills:** 
+
 ### Deep Learning for Healthcare Specialization
 - **Institution:** University of Illinois Urbana-Champaign
 - **Issued:** October 2024
