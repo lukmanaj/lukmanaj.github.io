@@ -5,8 +5,8 @@ title: "Certifications"
 # Licenses & Certifications
 ### Genomic Data Science Specialization
 - **Institution:** Johns Hopkins University
-- **Issued:** In view
-- **Credential ID:**
+- **Issued:** November 2024
+- **Credential ID:** [XSILAA8MA8ZN](https://www.coursera.org/account/accomplishments/specialization/XSILAA8MA8ZN)
 - **Skills:** 
 
 ### Deep Learning for Healthcare Specialization
