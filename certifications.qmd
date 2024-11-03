@@ -7,7 +7,7 @@ title: "Certifications"
 - **Institution:** Johns Hopkins University
 - **Issued:** November 2024
 - **Credential ID:** [XSILAA8MA8ZN](https://www.coursera.org/account/accomplishments/specialization/XSILAA8MA8ZN)
-- **Skills:** 
+- **Skills:** Genomics, Bioinformatics, Computational Biology, Biopython, Bioconductor
 
 ### Deep Learning for Healthcare Specialization
 - **Institution:** University of Illinois Urbana-Champaign
