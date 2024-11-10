@@ -13,6 +13,7 @@ My name is Lukman Jibril Aliyu. I am a professional with a background in Pharmac
 
 ## Latest Updates
 
+- **November 2024**: Recognized by `DeepLearning.AI` in all their social media accounts for my remarkable journey integrating AI in my practice, documented in my [blog article](https://lukmanaj.github.io/ailearningloop/posts/dlai-feature/)
 - **September 2024**: Won 3rd place in the Data Science for Health Ideathon at the Deep Learning Indaba, 2024. 
 - **August 2024**: Earned the "Devotee" badge on the DeepLearning.AI Forum for participating consistently for 365 consecutive days.
 - **August 2024**: Selected as a Mentor by DeepLearning.AI and Coursera for the [`Tensorflow Developer Professional Certificate`](https://www.coursera.org/professional-certificates/tensorflow-in-practice) as a result of my insightful contributions as a course tester.
