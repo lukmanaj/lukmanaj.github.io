@@ -4,7 +4,7 @@ title: "Lukman Jibril Aliyu"
 
 # Welcome to My Personal Website
 
-My name is Lukman Jibril Aliyu. I am a professional with a background in Pharmacy and interest in Biomedical Informatics and Artificial Intelligence. This website showcases my projects, publications, and professional and learning journey. Feel free to explore!
+My name is Lukman Jibril Aliyu. I am a professional with a background in Pharmacy and interest in Biomedical Informatics and Artificial Intelligence. This website showcases my projects, publications, and my professional and learning journey. Feel free to explore!
 
 [Learn more about me](about.qmd)
 
