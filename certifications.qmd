@@ -179,7 +179,8 @@ title: "Certifications"
 ### Google Cybersecurity Certificate
 - **Institution:** Google
 - **Issued:** June 2023
-- [Show Credential](https://www.credly.com/badges/5e98247b-1ac7-40fd-8cea-eec944360e3b/linked_in_profile)
+- **Credential ID:** [ZEH8DUJSW6K7](https://www.coursera.org/account/accomplishments/specialization/certificate/ZEH8DUJSW6K7)
+- [Badge](https://www.credly.com/badges/5e98247b-1ac7-40fd-8cea-eec944360e3b/linked_in_profile)
 
 ### Deep Learning Specialization
 - **Institution:** DeepLearning.AI
