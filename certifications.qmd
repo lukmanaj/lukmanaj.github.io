@@ -70,7 +70,7 @@ title: "Certifications"
 - **Institution:** Stanford University
 - **Issued:** January 2024
 - **Credential ID:** [E2WTBR4FWPKL](https://www.coursera.org/account/accomplishments/specialization/E2WTBR4FWPKL)
-- **Skills:** Drug Discovery, Artificial Intelligence (AI), Natural Language Processing (NLP)
+- **Skills:** Drug Discovery, Artificial Intelligence (AI), Natural Language Processing (NLP), Clinical Data Analysis
 
 ### Generative AI for Everyone
 - **Institution:** DeepLearning.AI
@@ -92,7 +92,7 @@ title: "Certifications"
 - **Institution:** Johns Hopkins University
 - **Issued:** October 2023
 - **Credential ID:** [WX3PMGBE88MD](https://www.coursera.org/account/accomplishments/specialization/certificate/WX3PMGBE88MD)
-- **Skills:** R Programming, Data Visualization, Data Analysis with R
+- **Skills:** R Programming, Data Visualization, Exploratory Data Analysis, Github,
 
 ### Deep Learning Essentials with Keras
 - **Institution:** Coursera
