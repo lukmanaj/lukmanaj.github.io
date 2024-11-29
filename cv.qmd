@@ -54,4 +54,4 @@ title: "Curriculum Vitae"
 ## Skills
 - **Programming Languages:** Python, R, SQL, Julia, JavaScript, Java
 - **Operating Systems:** Linux (Ubuntu, Debian), Windows, ChromeOS
-- **Spoken Languages:** Hausa, English, French (DELF A1), Arabic
+- **Spoken Languages:** Hausa, English, Arabic, French (DELF A1)
