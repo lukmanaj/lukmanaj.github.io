@@ -8,7 +8,7 @@ title: "Certifications"
 - **Institution:** DeepLearning.AI
 - **Issued:** December 2024
 - **Credential ID:** [8ONNJ6AN2I60](https://www.coursera.org/account/accomplishments/verify/8ONNJ6AN2I60)
-- **Skills:** Python, Generative AI
+- **Skills:** Python, Generative AI 
 
 ### Genomic Data Science Specialization
 - **Institution:** Johns Hopkins University
