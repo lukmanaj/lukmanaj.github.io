@@ -17,6 +17,7 @@ Feel free to explore my projects and publications to understand more about my pa
 
 ## Latest Updates
 
+- **December 2024**: Our [paper](https://narrax.org/main/article/view/180) titled `Enhancing primary healthcare delivery in Nigeria through the adoption of advanced technologies`  was published. 
 - **November 2024**: Featured across all `DeepLearning.AI` social media platforms for my remarkable journey integrating AI into my professional practice, as documented in my [blog article](https://lukmanaj.github.io/ailearningloop/posts/dlai-feature/)
 - **September 2024**: Won 3rd place in the Data Science for Health Ideathon at the Deep Learning Indaba, 2024. 
 - **August 2024**: Earned the "Devotee" badge on the DeepLearning.AI Forum for participating consistently for 365 consecutive days.
