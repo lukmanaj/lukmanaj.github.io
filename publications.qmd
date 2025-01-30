@@ -4,8 +4,9 @@ title: "Publications"
 
 # Selected Publications
 
-1. [Enhancing primary healthcare delivery in Nigeria through the adoption of advanced technologies](https://narrax.org/main/article/view/180). narra X. 
-2. [Analyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace](https://arxiv.org/abs/2401.13133). arXiv preprint arXiv:2401.13133.
-3. [Beyond English: Offensive Language Detection in Low-Resource Nigerian Languages](https://openreview.net/forum?id=8H6fHHZI36). 5th Workshop on African Natural Language Processing.
-4. [HausaNLP at SemEval-2024 Task 1: Textual Relatedness Analysis for Semantic Representation of Sentences](https://aclanthology.org/2024.semeval-1.29). 18th International Workshop on Semantic Evaluation.
-5. [Leveraging Closed-Access Multilingual Embedding for Automatic Sentence Alignment in Low Resource Languages](https://arxiv.org/abs/2311.12179). arXiv preprint arXiv:2311.12179.
+1. Leveraging AI to Optimize Vaccines Supply Chain and Logistics in Africa: Opportunities and Challenges 
+2. [Enhancing primary healthcare delivery in Nigeria through the adoption of advanced technologies](https://narrax.org/main/article/view/180). narra X. 
+3. [Analyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace](https://arxiv.org/abs/2401.13133). arXiv preprint arXiv:2401.13133.
+4. [Beyond English: Offensive Language Detection in Low-Resource Nigerian Languages](https://openreview.net/forum?id=8H6fHHZI36). 5th Workshop on African Natural Language Processing.
+5. [HausaNLP at SemEval-2024 Task 1: Textual Relatedness Analysis for Semantic Representation of Sentences](https://aclanthology.org/2024.semeval-1.29). 18th International Workshop on Semantic Evaluation.
+6. [Leveraging Closed-Access Multilingual Embedding for Automatic Sentence Alignment in Low Resource Languages](https://arxiv.org/abs/2311.12179). arXiv preprint arXiv:2311.12179.
