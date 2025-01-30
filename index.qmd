@@ -19,7 +19,7 @@ I invite you to explore my projects, publications, and NLP research contribution
 
 ## Latest Updates
 
-- **January 2024**: Our [paper](http://review.frontiersin.org/review/1531141/0/0) titled `Leveraging AI to Optimize Vaccines Supply Chain and Logistics in Africa: Opportunities and Challenges` was accepted by Frontiers in Pharmacology. 
+- **January 2025**: Our [paper](http://review.frontiersin.org/review/1531141/0/0) titled `Leveraging AI to Optimize Vaccines Supply Chain and Logistics in Africa: Opportunities and Challenges` was accepted by Frontiers in Pharmacology. 
 - **December 2024**: Our [paper](https://narrax.org/main/article/view/180) titled `Enhancing primary healthcare delivery in Nigeria through the adoption of advanced technologies`  was published. 
 - **November 2024**: Featured across all `DeepLearning.AI` social media platforms for my remarkable journey integrating AI into my professional practice, as documented in my [blog article](https://lukmanaj.github.io/ailearningloop/posts/dlai-feature/)
 - **September 2024**: Won 3rd place in the Data Science for Health Ideathon at the Deep Learning Indaba, 2024. 
