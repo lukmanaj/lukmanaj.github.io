@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lukmanaj.github.io/projects.html</loc>
-    <lastmod>2025-01-30T21:02:30.053Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukmanaj.github.io/index.html</loc>
-    <lastmod>2025-01-30T21:02:30.053Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukmanaj.github.io/cv.html</loc>
-    <lastmod>2025-01-30T21:02:30.039Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukmanaj.github.io/about.html</loc>
-    <lastmod>2025-01-30T21:02:30.038Z</lastmod>
-  </url>
-  <url>
     <loc>https://lukmanaj.github.io/blog.html</loc>
-    <lastmod>2025-01-30T21:02:30.039Z</lastmod>
+    <lastmod>2025-03-01T10:12:48.675Z</lastmod>
   </url>
   <url>
     <loc>https://lukmanaj.github.io/publications.html</loc>
-    <lastmod>2025-01-30T21:02:30.053Z</lastmod>
+    <lastmod>2025-03-01T10:12:48.689Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lukmanaj.github.io/about.html</loc>
+    <lastmod>2025-03-01T10:12:48.675Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lukmanaj.github.io/index.html</loc>
+    <lastmod>2025-03-01T10:12:48.689Z</lastmod>
   </url>
   <url>
     <loc>https://lukmanaj.github.io/certifications.html</loc>
-    <lastmod>2025-01-30T21:02:30.039Z</lastmod>
+    <lastmod>2025-03-01T10:12:48.675Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lukmanaj.github.io/cv.html</loc>
+    <lastmod>2025-03-01T10:12:48.675Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lukmanaj.github.io/projects.html</loc>
+    <lastmod>2025-03-01T10:12:48.689Z</lastmod>
   </url>
 </urlset>
