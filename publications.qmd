@@ -4,7 +4,7 @@ title: "Publications"
 
 # Selected Publications
 
-1. Leveraging AI to Optimize Vaccines Supply Chain and Logistics in Africa: Opportunities and Challenges 
+1. [Leveraging AI to Optimize Vaccines Supply Chain and Logistics in Africa: Opportunities and Challenges](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1531141/full)
 2. [Enhancing primary healthcare delivery in Nigeria through the adoption of advanced technologies](https://narrax.org/main/article/view/180). narra X. 
 3. [Analyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace](https://arxiv.org/abs/2401.13133). arXiv preprint arXiv:2401.13133.
 4. [Beyond English: Offensive Language Detection in Low-Resource Nigerian Languages](https://openreview.net/forum?id=8H6fHHZI36). 5th Workshop on African Natural Language Processing.
