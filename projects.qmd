@@ -14,3 +14,9 @@ title: "Selected Projects"
 - Deployed an app on streamlit using the developed model
 
 [Learn more about this project](https://github.com/lukmanaj/wildlifeclassify)
+
+## Brain Tumor Multimodal Classifier
+- Developed a model that detects brain tumours using either a CT or MRI scan or both
+- Deployed an app on streamlit using the model
+
+[Learn more about this project](https://github.com/lukmanaj/CTMRI-Net)
