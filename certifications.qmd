@@ -4,6 +4,18 @@ title: "Certifications"
 
 # Licenses & Certifications
 
+### DeepLearning.AI Data Analytics
+- **Institution:** DeepLearning.AI
+- **Issued:** June 2025
+- **Credential ID:** [O3B06ZQ0DB23](https://www.coursera.org/account/accomplishments/professional-cert/O3B06ZQ0DB23)
+- **Skills:** Python, Data Analytics, Statistics, Data Storytelling, Tableau 
+
+### Hugging Face Agent Course
+- **Institution:** Hugging Face
+- **Issued:** May 2025
+- **Credential ID:** lukmanaj
+- **Skills:** AI Agents, Multi-agents Systems 
+
 ### AI Python for Beginners
 - **Institution:** DeepLearning.AI
 - **Issued:** December 2024
