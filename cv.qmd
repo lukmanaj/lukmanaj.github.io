@@ -31,7 +31,7 @@ title: "Curriculum Vitae"
 ## Volunteer Experience
 
 ### DeepLearning.AI Forum (August 2024 - Present)
-- **Role:** Mentor (Tensorflow Developer Professional Certification)
+- **Role:** Mentor (Tensorflow Developer Professional Certification, Data Analytics Professional Certification)
 - Responsibilities include mentoring learners, and helping in troubleshooting bugs and challenges while supporting the course staff.
 
 ### DeepLearning.AI Forum (November 2023 - Present)
@@ -49,7 +49,7 @@ title: "Curriculum Vitae"
 - Served as a tutor for Ethical Dispensing (PHCT 504) and Pharmaceutical Analysis I (PHCH 401), providing guidance to pharmacy students.
 
 
-...
+---
 
 ## Skills
 - **Programming Languages:** Python, R, SQL, Julia, JavaScript, Java
