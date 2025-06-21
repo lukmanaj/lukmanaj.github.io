@@ -8,7 +8,7 @@ title: "Certifications"
 - **Institution:** Johns Hopkins University
 - **Issued:** June 2025
 - **Credential ID:** [KZIXAJDFKSSK](https://www.coursera.org/account/accomplishments/specialization/KZIXAJDFKSSK)
-- **Skills:** Research, Statistics, Epidemiology, Research
+- **Skills:** Research, Statistics, Epidemiology
 
 
 ### DeepLearning.AI Data Analytics
