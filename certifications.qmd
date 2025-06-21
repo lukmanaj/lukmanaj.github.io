@@ -4,6 +4,13 @@ title: "Certifications"
 
 # Licenses & Certifications
 
+### Drug Development and Pharmacoepidemiology Specialization
+- **Institution:** Johns Hopkins University
+- **Issued:** June 2025
+- **Credential ID:** [KZIXAJDFKSSK](https://www.coursera.org/account/accomplishments/specialization/KZIXAJDFKSSK)
+- **Skills:** Research, Statistics, Epidemiology, Research
+
+
 ### DeepLearning.AI Data Analytics
 - **Institution:** DeepLearning.AI
 - **Issued:** June 2025
