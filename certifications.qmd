@@ -4,6 +4,12 @@ title: "Certifications"
 
 # Licenses & Certifications
 
+### AI Engineer for Data Scientists Associate
+- **Institution:** DataCamp
+- **Issued:** August 2025
+- **Credential ID:** [AEDS0015074418946](https://www.datacamp.com/certificate/AEDS0015074418946)
+- **Skills:** AI Engineering, Data Analysis, Data Validation, Modelling
+
 ### Drug Development and Pharmacoepidemiology Specialization
 - **Institution:** Johns Hopkins University
 - **Issued:** June 2025
