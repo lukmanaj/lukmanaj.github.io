@@ -3,6 +3,11 @@ title: "Certifications"
 ---
 
 # Licenses & Certifications
+### Retrieval Augmented Generation (RAG)
+- **Institution:** DeepLearning.AI
+- **Issued:** August 2025
+- **Credential ID:** [I0RQYIW8DQD6](https://www.coursera.org/account/accomplishments/verify/I0RQYIW8DQD6)
+- **Skills:** AI Engineering, RAG
 
 ### AI Engineer for Data Scientists Associate
 - **Institution:** DataCamp
@@ -15,7 +20,6 @@ title: "Certifications"
 - **Issued:** June 2025
 - **Credential ID:** [KZIXAJDFKSSK](https://www.coursera.org/account/accomplishments/specialization/KZIXAJDFKSSK)
 - **Skills:** Research, Statistics, Epidemiology
-
 
 ### DeepLearning.AI Data Analytics
 - **Institution:** DeepLearning.AI
