@@ -7,7 +7,7 @@ title: "Certifications"
 - **Institution:** DeepLearning.AI
 - **Issued:** August 2025
 - **Credential ID:** [I0RQYIW8DQD6](https://www.coursera.org/account/accomplishments/verify/I0RQYIW8DQD6)
-- **Skills:** AI Engineering, RAG
+- **Skills:** Generative AI, RAG, Semantic Web, Prompt Engineering
 
 ### AI Engineer for Data Scientists Associate
 - **Institution:** DataCamp
