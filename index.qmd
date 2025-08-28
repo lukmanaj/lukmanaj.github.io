@@ -19,6 +19,7 @@ I invite you to explore my projects, publications, and NLP research contribution
 
 ## Latest Updates
 
+- **August 2025**: I presented our [paper](https://arxiv.org/abs/2507.21364) at the Deep Learning Indaba 2025, in Kigali, Rwanda.
 - **July 2025**: Our [paper](https://openreview.net/pdf?id=OfYBVdUUez), my first first-author paper, titled `Evaluating Deep Learning Models for African Wildlife Image Classification: From DenseNet to Vision Transformers` was accepted by Deep Learning Indaba 2025.
 - **April 2025**: Our [paper](https://openreview.net/pdf?id=j9CCM7NDAO) titled `Who Wrote This? Identifying Machine vs Human-Generated Text in Hausa` was accepted by AfricaNLP 2025.
 - **March 2025**: Recognized as best tester for the first course of the `DeepLearning.AI` Data Analytics Professional Certificate. I was also selected as a course mentor.
