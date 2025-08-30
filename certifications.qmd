@@ -3,6 +3,12 @@ title: "Certifications"
 ---
 
 # Licenses & Certifications
+### Fast Prototyping of GenAI Apps with Streamlit
+- **Institution:** DeepLearning.AI
+- **Issued:** August 2025
+- **Credential ID:** [FCDS9SOWZLX3](https://www.coursera.org/account/accomplishments/verify/FCDS9SOWZLX3)
+- **Skills:** Generative AI, RAG, Semantic Web, Prompt Engineering, SQL, Streamlit
+
 ### Retrieval Augmented Generation (RAG)
 - **Institution:** DeepLearning.AI
 - **Issued:** August 2025
