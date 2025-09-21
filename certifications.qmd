@@ -3,6 +3,12 @@ title: "Certifications"
 ---
 
 # Licenses & Certifications
+### Information Extraction from Free Text Data in Health
+- **Institution:** University of Michigan
+- **Issued:** September 2025
+- **Credential ID:** [9DNLE4Q4YWQ1](https://www.coursera.org/account/accomplishments/verify/9DNLE4Q4YWQ1)
+- **Skills:** Medical NLP, Healthcare Data Handling
+
 ### Fast Prototyping of GenAI Apps with Streamlit
 - **Institution:** DeepLearning.AI
 - **Issued:** August 2025
