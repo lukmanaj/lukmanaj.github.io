@@ -3,6 +3,12 @@ title: "Certifications"
 ---
 
 # Licenses & Certifications
+### Clinical Data Science
+- **Institution:** University of Colorado System
+- **Issued:** October 2025
+- **Credential ID:** [GVW2GKU1QJO4](https://www.coursera.org/account/accomplishments/specialization/certificate/GVW2GKU1QJO4)
+- **Skills:** Clinical Data Science, BigQuery, Clinical Data Management, Tidyverse, Risk Modeling
+
 ### Information Extraction from Free Text Data in Health
 - **Institution:** University of Michigan
 - **Issued:** September 2025
