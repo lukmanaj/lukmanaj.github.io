@@ -3,6 +3,18 @@ title: "Certifications"
 ---
 
 # Licenses & Certifications
+### PyTorch for Deep Learning
+- **Institution:** DeepLearning.AI
+- **Issued:** November 2025
+- **Credential ID:** [f58c3201-68a7-4446-a7c0-31a7aa63719d](https://learn.deeplearning.ai/certificates/f58c3201-68a7-4446-a7c0-31a7aa63719d)
+- **Skills:** PyTorch, NLP, CV, Machine Learning
+
+### Agentic AI
+- **Institution:** DeepLearning.AI
+- **Issued:** October 2025
+- **Credential ID:** [74df520c-8b1e-4272-b181-84c6d2544721](https://learn.deeplearning.ai/certificates/74df520c-8b1e-4272-b181-84c6d2544721)
+- **Skills:** LLMs, Agentic AI
+
 ### Clinical Data Science
 - **Institution:** University of Colorado System
 - **Issued:** October 2025
