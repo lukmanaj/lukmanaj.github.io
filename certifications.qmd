@@ -3,6 +3,12 @@ title: "Certifications"
 ---
 
 # Licenses & Certifications
+### Data Analytics
+- **Institution:** DeepLearning.AI
+- **Issued:** December 2025
+- **Credential ID:** [446a37d4-a045-413e-a10a-44fe46d2c041](https://learn.deeplearning.ai/certificates/446a37d4-a045-413e-a10a-44fe46d2c041)
+- **Skills:** Python, Data Analytics, SQL, Statistics, Data Storytelling, Tableau 
+
 ### PyTorch for Deep Learning
 - **Institution:** DeepLearning.AI
 - **Issued:** November 2025
@@ -50,12 +56,6 @@ title: "Certifications"
 - **Issued:** June 2025
 - **Credential ID:** [KZIXAJDFKSSK](https://www.coursera.org/account/accomplishments/specialization/KZIXAJDFKSSK)
 - **Skills:** Research, Statistics, Epidemiology
-
-### DeepLearning.AI Data Analytics
-- **Institution:** DeepLearning.AI
-- **Issued:** June 2025
-- **Credential ID:** [O3B06ZQ0DB23](https://www.coursera.org/account/accomplishments/professional-cert/O3B06ZQ0DB23)
-- **Skills:** Python, Data Analytics, Statistics, Data Storytelling, Tableau 
 
 ### Hugging Face Agent Course
 - **Institution:** Hugging Face
