@@ -3,11 +3,23 @@ title: "Certifications"
 ---
 
 # Licenses & Certifications
+### Mathematics for Machine Learning and Data Science
+- **Institution:** DeepLearning.AI
+- **Issued:** January 2026
+- **Credential ID:** [944e9616-b91b-470b-9365-c49322dd1a4f](https://learn.deeplearning.ai/certificates/944e9616-b91b-470b-9365-c49322dd1a4f)
+- **Skills:** Python, Linear Algebra, Calculus, Statistics 
+
+### Deep Learning Specialization
+- **Institution:** DeepLearning.AI
+- **Issued:** January 2026
+- **Credential ID:** [72fa7a78-400c-4417-b71e-9d9c55da717d](https://learn.deeplearning.ai/certificates/72fa7a78-400c-4417-b71e-9d9c55da717d)
+- **Skills:** Python, Neural Networks, Convolutional Neural Networks, Sequence Models, Transformers
+
 ### Data Analytics
 - **Institution:** DeepLearning.AI
 - **Issued:** December 2025
 - **Credential ID:** [446a37d4-a045-413e-a10a-44fe46d2c041](https://learn.deeplearning.ai/certificates/446a37d4-a045-413e-a10a-44fe46d2c041)
-- **Skills:** Python, Data Analytics, SQL, Statistics, Data Storytelling, Tableau 
+- **Skills:** Python, Data Analytics, SQL, Statistics, Data Storytelling, Tableau
 
 ### PyTorch for Deep Learning
 - **Institution:** DeepLearning.AI
