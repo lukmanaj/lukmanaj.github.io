@@ -3,6 +3,12 @@ title: "Certifications"
 ---
 
 # Licenses & Certifications
+### Natural Language Processing Specialization
+- **Institution:** DeepLearning.AI
+- **Issued:** February 2026
+- **Credential ID:** [fb45f2b9-b656-4109-91f8-2a1df5731d6f](https://learn.deeplearning.ai/certificates/fb45f2b9-b656-4109-91f8-2a1df5731d6f?usp=sharing)
+- **Skills:** Natural Language Processing (NLP)
+
 ### Mathematics for Machine Learning and Data Science
 - **Institution:** DeepLearning.AI
 - **Issued:** January 2026
