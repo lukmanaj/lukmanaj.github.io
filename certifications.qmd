@@ -3,6 +3,18 @@ title: "Certifications"
 ---
 
 # Licenses & Certifications
+### Transformers in Practice
+- **Institution:** DeepLearning.AI
+- **Issued:** May 2026
+- **Credential ID:** [e588d239-4f27-400c-8083-8cb9d1220575](https://learn.deeplearning.ai/certificates/e588d239-4f27-400c-8083-8cb9d1220575?usp=sharing)
+- **Skills:** Transformers, LLMs, Flash Attention, KV Caching
+
+### AI for Medicine Specialization
+- **Institution:** DeepLearning.AI
+- **Issued:** May 2026
+- **Credential ID:** [52ae4c35-e69b-4999-9f1a-0f340651d45a](https://learn.deeplearning.ai/certificates/52ae4c35-e69b-4999-9f1a-0f340651d45a?usp=sharing)
+- **Skills:** AI in Health, Evals
+
 ### Natural Language Processing Specialization
 - **Institution:** DeepLearning.AI
 - **Issued:** February 2026
