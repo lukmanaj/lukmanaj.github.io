@@ -19,6 +19,7 @@ I invite you to explore my projects, publications, and NLP research contribution
 
 ## Latest Updates
 
+- **September 2026**: Our paper, [Enhancing disease surveillance in Nigeria through machine learning: opportunities, challenges and strategic recommendations](https://link.springer.com/article/10.1186/s44398-026-00036-7), has been published in BMC Artificial Intelligence.
 - **August 2026**: I was appointed as Community Lead for Arewa Data Science Academy.
 - **February 2026**: My Deep Learning Indaba, Rwanda 2025 paper has finally been published. Find it [here](https://proceedings.mlr.press/v302/aliyu26a.html).
 - **October 2025**: Honored to be recognized by DeepLearning.AI for contributing to the testing of Andrew Ng’s new Agentic AI Course, helping refine and enhance its quality ahead of launch. Details on my blog [post](https://lukmanaj.github.io/ailearningloop/posts/agentic-ai-test/).
