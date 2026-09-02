@@ -4,12 +4,13 @@ title: "Publications"
 
 # Selected Publications
 
-1. [Leveraging AI to Optimize Vaccines Supply Chain and Logistics in Africa: Opportunities and Challenges](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1531141/full). Frontiers in Pharmacology. 
-2. [Enhancing primary healthcare delivery in Nigeria through the adoption of advanced technologies](https://narrax.org/main/article/view/180). narra X. 
-3. [Evaluating Deep Learning Models for African Wildlife Image Classification: From DenseNet to Vision Transformers](https://proceedings.mlr.press/v302/aliyu26a.html). Deep Learning Indaba 2025
-4. [AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages](https://openreview.net/forum?id=KoFRZspZoP)
-5. [Who Wrote This? Identifying Machine vs Human-Generated Text in Hausa](https://openreview.net/forum?id=j9CCM7NDAO).AfricaNLP 2025
-6. [Analyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace](https://arxiv.org/abs/2401.13133). arXiv preprint arXiv:2401.13133.
-7. [Beyond English: Offensive Language Detection in Low-Resource Nigerian Languages](https://openreview.net/forum?id=8H6fHHZI36). 5th Workshop on African Natural Language Processing.
-8. [HausaNLP at SemEval-2024 Task 1: Textual Relatedness Analysis for Semantic Representation of Sentences](https://aclanthology.org/2024.semeval-1.29). 18th International Workshop on Semantic Evaluation.
-9. [Leveraging Closed-Access Multilingual Embedding for Automatic Sentence Alignment in Low Resource Languages](https://arxiv.org/abs/2311.12179). arXiv preprint arXiv:2311.12179.
+1. [Enhancing disease surveillance in Nigeria through machine learning: opportunities, challenges and strategic recommendations](https://link.springer.com/article/10.1186/s44398-026-00036-7). BMC Artificial Intelligence.
+2. [Leveraging AI to Optimize Vaccines Supply Chain and Logistics in Africa: Opportunities and Challenges](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1531141/full). Frontiers in Pharmacology. 
+3. [Enhancing primary healthcare delivery in Nigeria through the adoption of advanced technologies](https://narrax.org/main/article/view/180). narra X. 
+4. [Evaluating Deep Learning Models for African Wildlife Image Classification: From DenseNet to Vision Transformers](https://proceedings.mlr.press/v302/aliyu26a.html). Deep Learning Indaba 2025
+5. [AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages](https://openreview.net/forum?id=KoFRZspZoP)
+6. [Who Wrote This? Identifying Machine vs Human-Generated Text in Hausa](https://openreview.net/forum?id=j9CCM7NDAO).AfricaNLP 2025
+7. [Analyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace](https://arxiv.org/abs/2401.13133). arXiv preprint arXiv:2401.13133.
+8. [Beyond English: Offensive Language Detection in Low-Resource Nigerian Languages](https://openreview.net/forum?id=8H6fHHZI36). 5th Workshop on African Natural Language Processing.
+9. [HausaNLP at SemEval-2024 Task 1: Textual Relatedness Analysis for Semantic Representation of Sentences](https://aclanthology.org/2024.semeval-1.29). 18th International Workshop on Semantic Evaluation.
+10. [Leveraging Closed-Access Multilingual Embedding for Automatic Sentence Alignment in Low Resource Languages](https://arxiv.org/abs/2311.12179). arXiv preprint arXiv:2311.12179.
