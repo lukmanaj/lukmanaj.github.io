@@ -22,7 +22,13 @@ about:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/lukmanajjk
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0009-0009-4314-6919
 
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=Ter50YIAAAAJ
 
 ---
 
